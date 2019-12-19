@@ -1,0 +1,99 @@
+{
+    "name": "DNSimple",
+    "description": "DNSimple is a managed domain name server service operated by Aetrion LLC d\/b\/a DNSimple, which offers DNS hosting, domain registration, and SSL certificates.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/575-dnsimple.jpg",
+    "tags": [
+        "api provider",
+        "dns general",
+        "domains",
+        "have api",
+        "webhook implementations"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/dnsimple\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "DNSimple",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/575-dnsimple.jpg",
+            "humanURL": "https:\/\/dnsimple.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/dnsimple-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/dnsimple-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/api.dnsimple.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.dnsimple.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.dnsimple.com\/rss"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/dnsimple"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/dnsimple"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/developer.dnsimple.com\/"
+        },
+        {
+            "type": "Email",
+            "url": "support@dnsimple.com"
+        },
+        {
+            "type": "Email",
+            "url": "reseller@dnsimple.com"
+        },
+        {
+            "type": "Email",
+            "url": "enterprise@dnsimple.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/dnsimple"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/dnsimple.com\/pricing"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/dnsimple"
+        },
+        {
+            "type": "Webhooks",
+            "url": "https:\/\/developer.dnsimple.com\/v2\/webhooks\/"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/dnsimple.com"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/dnsimple.com"
+        }
+    ]
+}
